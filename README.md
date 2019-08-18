@@ -1,4 +1,4 @@
-# NCES Institutional Pick List Builder
+# NCES Based Institutional Pick List Builder
 
 Code that can efficiently build pick list of NCES IPEDS listed institutions of higher education. Uses data from NCES.
 
@@ -23,4 +23,4 @@ This routine is provided in the following two computer languages.
 
 ## Suggested Citation
 
-Nelson, Adam R. (2017). NCES Institutional Pick List Builder. GitHub Repository, https://github.com/adamrossnelson/nces_inst_pick_list_builder DOI: 10.5281/zenodo.3370695
+Nelson, Adam R. (2017). NCES Based Institutional Pick List Builder. GitHub Repository, https://github.com/adamrossnelson/nces_inst_pick_list_builder DOI: 10.5281/zenodo.3370695
