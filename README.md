@@ -23,4 +23,4 @@ This routine is provided in the following two computer languages.
 
 ## Suggested Citation
 
-Nelson, Adam R. (2017). NCES Institutional Pick List Builder. GitHub Repository, https://github.com/adamrossnelson/nces_inst_pick_list_builder DOI: _forthcoming_
+Nelson, Adam R. (2017). NCES Institutional Pick List Builder. GitHub Repository, https://github.com/adamrossnelson/nces_inst_pick_list_builder DOI: 10.5281/zenodo.3370695
