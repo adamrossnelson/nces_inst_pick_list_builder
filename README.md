@@ -21,3 +21,6 @@ This routine is provided in the following two computer languages.
 * `First add of nces_inst_pick_list_builder.do` runs in Stata (reverse compatible to Stata 13). Collects online from NCES higher educational institutional directory information. Then writes to the current working directory files that are suitable for use in configuging drill down pick list questions at popular survey software providers.
 * `First add of nces_inst_pick_list_builder.py` runs in Python 3.6.2. Collects online from NCES higher educational institutional directory information. Then writes to the current working directory files that are suitable for use in configuging drill down pick list questions at popular survey software providers.
 
+## Suggested Citation
+
+Nelson, Adam R. (2017). NCES Institutional Pick List Builder. GitHub Repository, https://github.com/adamrossnelson/nces_inst_pick_list_builder DOI: _forthcoming_
